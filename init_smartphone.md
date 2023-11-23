@@ -35,13 +35,9 @@ devel-su
 ```
 Вводим пароль который вы установили в при активации терминала
 
-#### Установка первого пакета
+#### Установка первого и второго пакета
 ```shell
-pkcon install-local /home/defaultuser/Downloads/maliit-framework-wayland-inputcontext-0.99.1+git12-1.7.25.omp.armv7hl.rpm -y
-```
-#### Установка первого пакета
-```shell
-pkcon install-local /home/defaultuser/Downloads/maliit-framework-wayland-0.99.1+git12-1.7.25.omp.armv7hl.rpm -y
+pkcon install-local /home/defaultuser/Downloads/*.rpm -y
 ```
 
 Выходим.
