@@ -12,10 +12,6 @@ https://gitlab.com/omprussia/flutter/flutter-plugins/-/tree/master/packages?ref_
 ```shell
 https://gitlab.com/omprussia/flutter/flutter-plugins/-/tree/master/packages?ref_type=heads
 ```
-#### Добавляем поддержку Авроры
-```shell
-flutter-aurora create --platforms=aurora --org=com.example .
-```
 
 #### Добавляем поддержку Авроры
 ```shell
