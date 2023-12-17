@@ -9,10 +9,12 @@ aurora-cli psdk --install
 ```
 #### Проверка установки
 ```shell
-bash
+bash  
+```
+#### Проверка установки
+```shell
 aurora_psdk sdk-assistant list
 ```
-
 
 #### Установка Flutter
 ```shell
