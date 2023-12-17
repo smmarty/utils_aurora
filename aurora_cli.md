@@ -18,5 +18,5 @@ aurora_psdk sdk-assistant list
 
 #### Установка Flutter
 ```shell
-aurora-cli psdk --install
+aurora-cli flutter --install 3.16.2
 ```
