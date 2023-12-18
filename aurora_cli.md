@@ -32,3 +32,7 @@ aurora-cli flutter --versions-available
 aurora-cli flutter --install 3.16.2
 ```
 
+#### Для теста скачаем для теста flutter_plugins
+```shell
+git clone https://gitlab.com/omprussia/flutter/flutter-plugins.git
+```
