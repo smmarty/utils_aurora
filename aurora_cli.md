@@ -1,6 +1,7 @@
-#### Установка распаковщика UNZIP
+#### Установка инструментов
 ```shell
- sudo apt-get install unzip
+ sudo apt-get update
+ sudo apt-get install curl git git-lfs unzip bzip2
 ```
 
 #### Установка Aurora CLI
@@ -29,9 +30,5 @@ aurora-cli flutter --versions-available
 #### Установка Flutter
 ```shell
 aurora-cli flutter --install 3.16.2
-```
-#### Установка Embedder     
-```shell
-aurora-cli flutter --embedder-install=3.16.2
 ```
 
