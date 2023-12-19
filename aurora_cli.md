@@ -1,7 +1,6 @@
 #### Установка инструментов
 ```shell
- sudo apt-get update
- sudo apt-get install curl git git-lfs unzip bzip2
+ sudo apt-get update && apt-get install curl git git-lfs unzip bzip2
 ```
 
 #### Установка Aurora CLI
