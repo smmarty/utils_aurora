@@ -2,12 +2,6 @@
 ```shell
 aurora-cli psdk --install
 ```
-
-#### Установка Aurora PSDK
-```shell
-aurora-cli psdk --install Aurora Platform SDK version 4.0.2.303
-```
-
 #### Перезапускаем терминал
 ```shell
 bash  
