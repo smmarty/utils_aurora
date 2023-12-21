@@ -1,13 +1,3 @@
-#### Установка инструментов
-```shell
- sudo apt-get update && sudo apt-get install git-lfs unzip
-```
-
-#### Установка Aurora CLI
-```shell
-sudo snap install aurora-cli --channel=latest/candidate --devmode
-```
-
 #### Установка Aurora PSDK
 ```shell
 aurora-cli psdk --install
