@@ -5,14 +5,14 @@
 
 #### Установка Aurora CLI
 ```shell
-sudo snap install aurora-cli --devmode
+sudo snap install aurora-cli --channel=latest/candidate --devmode
 ```
 
 #### Установка Aurora PSDK
 ```shell
 aurora-cli psdk --install
 ```
-#### Проверка установки
+#### Перезапускаем терминал
 ```shell
 bash  
 ```
@@ -29,6 +29,10 @@ aurora-cli flutter --versions-available
 #### Установка Flutter
 ```shell
 aurora-cli flutter --install 3.16.2
+```
+#### Перезапускаем терминал
+```shell
+bash  
 ```
 
 #### Проверка установки Flutter
