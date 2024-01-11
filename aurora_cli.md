@@ -1,7 +1,13 @@
+#### Обновление Aurora-CLI, если уже установлена
+```shell
+ sudo snap refresh aurora-cli
+```
+
 #### Установка Aurora PSDK
 ```shell
 aurora-cli psdk --install
 ```
+
 #### Перезапускаем терминал
 ```shell
 bash  
