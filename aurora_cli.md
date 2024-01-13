@@ -20,7 +20,7 @@ aurora_psdk sdk-assistant list
 
 #### Получения списка доступных версий Flutter
 ```shell
-aurora-cli flutter --versions-available
+aurora-cli flutter --available
 ```
 
 #### Установка Flutter
