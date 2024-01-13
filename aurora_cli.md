@@ -36,5 +36,5 @@ bash
 
 #### Проверка установки Flutter
 ```shell
-flutter-aurora-3.16.2 doctor
+flutter-aurora-3.16.2-1 doctor
 ```
