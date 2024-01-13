@@ -22,12 +22,13 @@ aurora_psdk sdk-assistant list
 ```shell
 aurora-cli flutter --available
 ```
-Выбираем версию Flutter для установки
 
 #### Установка Flutter
 ```shell
-aurora-cli flutter --install 3.16.2
+aurora-cli flutter --install
 ```
+Выбираем версию Flutter для установки
+
 #### Перезапускаем терминал
 ```shell
 bash  
