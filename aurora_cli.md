@@ -38,7 +38,8 @@ bash
 ```shell
 flutter-aurora-3.16.2-1 doctor
 ```
-Если получаете ошибку о отсуттсвии embedder
+Если получаете ошибку embedder:
+
 <img width="623" alt="image" src="https://github.com/smmarty/utils_aurora/assets/48598325/dff15e8c-18c9-4b7f-9b99-8e8ae3fdff37">
 
 Необходимо установить embedder вручную.
