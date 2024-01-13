@@ -7,6 +7,7 @@
 ```shell
 aurora-cli psdk --install
 ```
+Выбираем версию PSDK для установки.
 
 #### Перезапускаем терминал
 ```shell
