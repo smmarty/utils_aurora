@@ -22,6 +22,7 @@ aurora_psdk sdk-assistant list
 ```shell
 aurora-cli flutter --available
 ```
+Выбираем версию Flutter для установки
 
 #### Установка Flutter
 ```shell
