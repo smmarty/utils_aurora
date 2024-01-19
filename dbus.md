@@ -4,5 +4,5 @@
 
 #### Добавление поддержки Авроры
 ```shell
-flutter-aurora create --platforms=aurora --org=com.example .
+flutter create --platforms=aurora --org=com.example .
 ```
