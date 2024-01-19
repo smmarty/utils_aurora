@@ -12,11 +12,6 @@ flutter create --platforms=aurora --org=com.example .
 dart-dbus generate-remote-object data.xml -o lib/data.dart
 ```
 
-#### Добавление поддержки Авроры
-```shell
-flutter create --platforms=aurora --org=com.example .
-```
-
 [Ссылка на проект](https://github.com/petrovyuri/flutter_dbus)
 
 #### Список интерфейсов в текущей сессии
