@@ -6,3 +6,23 @@
 ```shell
 flutter create --platforms=aurora --org=com.example .
 ```
+
+#### Список интерфейсов в текущей сессии
+```shell
+dbus-send --session           \
+  --dest=org.freedesktop.DBus \
+  --type=method_call          \
+  --print-reply               \
+  /org/freedesktop/DBus       \
+  org.freedesktop.DBus.ListNames
+```
+
+#### Список интерфейсов в системе
+```shell
+dbus-send --system            \
+   --dest=org.freedesktop.DBus \
+   --type=method_call          \
+   --print-reply               \
+   /org/freedesktop/DBus       \
+   org.freedesktop.DBus.ListNames
+```
